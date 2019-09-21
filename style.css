@@ -1,0 +1,19 @@
+body {
+
+    display: block;
+    height: 200px;
+    width: 160px;
+}
+
+div.red{
+    background-color: red;
+    height: 20px;
+    width: 20px;
+    float: left;
+}
+div.black{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    float: left;
+}
