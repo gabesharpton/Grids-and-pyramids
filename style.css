@@ -1,14 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body, html {
   height: 100%;
   margin: 0;
 }
-
-header {
+body header, html header {
   background-image: url("vhoa0.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
+  text-align: center;
+}
+body img, html img {
+  height: 20vw;
+  width: 20vw;
 }
 
 /*# sourceMappingURL=style.css.map */
