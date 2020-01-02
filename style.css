@@ -16,8 +16,11 @@ body header, html header {
   text-align: center;
 }
 body img, html img {
+  margin: 3%;
   height: 20vw;
   width: 20vw;
+  border-radius: 50%;
+  border: 0.3vw solid cyan;
 }
 
 /*# sourceMappingURL=style.css.map */
